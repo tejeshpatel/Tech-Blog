@@ -1,7 +1,7 @@
 # Tech-Blog
 
 ## URL (deployed to Heroku)
-
+https://frozen-woodland-40269.herokuapp.com/
 
 ## Description
 This is a tech blog where users can write and save posts. 
