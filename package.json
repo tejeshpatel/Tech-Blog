@@ -15,5 +15,19 @@
   "bugs": {
     "url": "https://github.com/tejeshpatel/Tech-Blog/issues"
   },
-  "homepage": "https://github.com/tejeshpatel/Tech-Blog#readme"
+  "homepage": "https://github.com/tejeshpatel/Tech-Blog#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "connect-session-sequelize": "^7.1.2",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.3",
+    "express-session": "^1.17.2",
+    "helpers": "^0.0.6",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.0",
+    "routes": "^2.1.0",
+    "sequelize": "^6.6.5",
+    "session": "^0.1.0"
+  }
 }
